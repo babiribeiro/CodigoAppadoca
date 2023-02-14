@@ -1,0 +1,10 @@
+body
+{
+ background-size: 100% 400px, 100% 4000px, 100% 700px;
+ background-position-y: 0px, 350px, 700px;
+ background-image: 
+ url("https://res.cloudinary.com/dyub8nnly/image/upload/v1675467904/Imagens%20Site%20Appadoca/Design_sem_nome_3_om7ccr.png"),
+ url("https://res.cloudinary.com/dyub8nnly/image/upload/v1675633768/Imagens%20Site%20Appadoca/fundobrancoappadoca_hwnejd.png"),
+ url("https://res.cloudinary.com/dyub8nnly/image/upload/v1675633865/Imagens%20Site%20Appadoca/fundorosaappadoca_ef6gzt.png");
+  background-repeat: no-repeat, no-repeat, no-repeat;
+ }
